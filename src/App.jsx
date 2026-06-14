@@ -1,4 +1,4 @@
-import './app.css'
+import './App.css'
 import Navbar from './components/Navbar.jsx'
 import About from './components/About.jsx'
 import Formations from './components/Formations.jsx'
